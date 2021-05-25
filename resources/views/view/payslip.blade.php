@@ -1,6 +1,6 @@
 @php $active = 'payslip' @endphp
 @extends('layouts.main')
-@section('title', 'View payment')
+@section('title', 'View payments')
 @section('content')
 <div class="row align-items-center">
     <div class="col-12 mt-5">
